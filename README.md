@@ -1,4 +1,4 @@
-# _Javascript Form Practice
+# _Javascript Form Practice_
 
 #### _A website built to practice basic Javascript and JQuery forms._
 
